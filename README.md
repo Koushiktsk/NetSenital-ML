@@ -93,7 +93,7 @@ pip install -r requirements.txt
 ```
 
 Below is the final comparison of classification reports provided by different models
-(https://github.com/Koushiktsk/NetSenital-ML/blob/main/Screenshot%202026-01-10%20015501.png)
+![Classification Report](https://github.com/Koushiktsk/NetSenital-ML/blob/main/Screenshot%202026-01-10%20015501.png)
 
 
 ## Thank You
